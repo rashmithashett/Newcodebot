@@ -1,2 +1,3 @@
-# Newcodebot
-new repo
+node_modules/
+lib/
+dist/
